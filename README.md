@@ -1,9 +1,11 @@
 # 🍌 GeminiBanana for ComfyUI + 白嫖💲300 教程
 
 **GeminiBanana** 是一个基于 **Gemini API** 与 **ComfyUI** 的自定义节点（Custom Node），它可以让你在 ComfyUI 工作流中调用 Gemini 生成文字、解析图像、或进行多模态交互，从而大幅提升工作流的自动化与创意能力。
+
 天啦噜，企鹅都开始写代码了，因为鄙人不精通代码，完全是GPT制作的垃圾代码，所以他现在在Comfyui内叫这个名字：Gemini Flash 2.5 Gen/Edit
 肯定有一些小BUG，陆续会更新。。。希望有缘人给更新
 特别鸣谢Lgong先生，他的Github主页是（我还不会@人）
+
 ---
 
 ## ✨ 功能特性
