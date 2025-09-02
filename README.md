@@ -74,6 +74,11 @@
 * 如果需要图像输入，请确保传入的图像为支持的格式（PNG、JPG）。
 * Gemini 的调用需要联网，请确保你的 ComfyUI 运行环境可以访问 Gemini API。
 
+## 🆓 方案介绍
+
+* <img width="1920" height="910" alt="d592c696-233e-4fc8-8203-b2d7ad553464" src="https://github.com/user-attachments/assets/194a2fd5-5b56-4deb-9473-17078b0fe3f2" />
+
+
 ---
 
 ## 🤝 致谢
