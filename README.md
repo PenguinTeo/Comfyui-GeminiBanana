@@ -1,4 +1,4 @@
-
+<img width="1920" height="910" alt="d592c696-233e-4fc8-8203-b2d7ad553464" src="https://github.com/user-attachments/assets/9e19d4da-2b1d-460b-ac08-03b638db45b4" />
 
 # 🍌 GeminiBanana for ComfyUI
 
@@ -33,13 +33,13 @@
    pip install -r requirements.txt
    ```
 
-4. 重启 ComfyUI，搜索节点列表中的 **GeminiBanana**。
+4. 重启 ComfyUI，搜索节点列表中的 **Gemini Flash 2.5 Gen/Edit**。
 
 ---
 
 ## 🚀 使用示例
 
-1. 在 ComfyUI 中添加 **GeminiBanana** 节点。
+1. 在 ComfyUI 中添加 **Gemini Flash 2.5 Gen/Edit** 节点。
 2. 输入：
 
    * **文本输入**：Prompt，例如 `"帮我写一首关于企鹅的诗"。`
@@ -75,6 +75,9 @@
 * Gemini 的调用需要联网，请确保你的 ComfyUI 运行环境可以访问 Gemini API。
 
 ## 🆓 方案介绍
+
+Step1️⃣进入Google AI Stuido https://aistudio.google.com/
+Step2️⃣点击
 
 * <img width="1920" height="910" alt="d592c696-233e-4fc8-8203-b2d7ad553464" src="https://github.com/user-attachments/assets/194a2fd5-5b56-4deb-9473-17078b0fe3f2" />
 
