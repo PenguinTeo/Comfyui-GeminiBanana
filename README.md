@@ -1,6 +1,4 @@
-好的 👍 我帮你写一个 **GeminiBanana ComfyUI Node** 的 `README.md`，内容涵盖简介、安装、使用示例、功能说明和致谢。你可以直接放到仓库里：
 
----
 
 # 🍌 GeminiBanana for ComfyUI
 
