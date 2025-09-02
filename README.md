@@ -2,7 +2,6 @@
 
 ---
 
-````markdown
 # 🍌 GeminiBanana for ComfyUI
 
 **GeminiBanana** 是一个基于 **Gemini API** 与 **ComfyUI** 的自定义节点（Custom Node），它可以让你在 ComfyUI 工作流中调用 Gemini 生成文字、解析图像、或进行多模态交互，从而大幅提升工作流的自动化与创意能力。
@@ -24,8 +23,6 @@
 1. 进入你的 ComfyUI `custom_nodes` 文件夹：
    ```bash
    cd ComfyUI/custom_nodes
-````
-
 2. 克隆本仓库：
 
    ```bash
