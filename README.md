@@ -1,5 +1,3 @@
-<img width="1920" height="910" alt="d592c696-233e-4fc8-8203-b2d7ad553464" src="https://github.com/user-attachments/assets/9e19d4da-2b1d-460b-ac08-03b638db45b4" />
-
 # 🍌 GeminiBanana for ComfyUI
 
 **GeminiBanana** 是一个基于 **Gemini API** 与 **ComfyUI** 的自定义节点（Custom Node），它可以让你在 ComfyUI 工作流中调用 Gemini 生成文字、解析图像、或进行多模态交互，从而大幅提升工作流的自动化与创意能力。
@@ -76,11 +74,23 @@
 
 ## 🆓 方案介绍
 
-Step1️⃣进入Google AI Stuido https://aistudio.google.com/
-Step2️⃣点击
-
+Step1️⃣进入Google Cloud https://console.cloud.google.com/
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/3b9cdf13-7006-4525-8ef1-b46894385862" />
+点击免费试用
+<img width="1550" height="720" alt="image" src="https://github.com/user-attachments/assets/ed64238b-715e-45f5-a0d5-259d38dab76f" />
+选择香港-随便填写一下信息，建议搜索一下真实存在的街道
+绑定Visa卡（招商银行的Visa支持）
+成功后创建项目
+设置额度（按最小设置即可）
+*不要激活不要激活不要激活！！！
 * <img width="1920" height="910" alt="d592c696-233e-4fc8-8203-b2d7ad553464" src="https://github.com/user-attachments/assets/194a2fd5-5b56-4deb-9473-17078b0fe3f2" />
+Step2️⃣进入Google AI Stuido https://aistudio.google.com/
+点击<img width="534" height="350" alt="aebaa518c13b18bb76690666b5dc0061" src="https://github.com/user-attachments/assets/9a830bd4-bc75-48a7-8048-07cf82747918" />
+选择项目（刚创建的）
+得到APIKEY<img width="1580" height="266" alt="image" src="https://github.com/user-attachments/assets/69ab2a67-f8ea-45c3-b189-d23212608bca" />
 
+Step3️⃣
+复制Key回到Comfyui填进去就可以愉快的感受10秒出图了~~~
 
 ---
 
