@@ -1,3 +1,6 @@
-google-generativeai>=0.7.0
-Pillow
-numpy
+google-genai==1.33.0
+Pillow==11.3.0
+google-api-core==2.25.1
+google-api-python-client==2.181.0
+googleapis-common-protos==1.70.0
+numpy==1.26.4
