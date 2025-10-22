@@ -1,0 +1,37 @@
+[project]
+name = "geminibanana"
+description = "GeminiBanana is a custom node for ComfyUI based on the Gemini API. It allows you to call Gemini inside ComfyUI workflows to generate text, parse images, or perform multimodal interactions, greatly enhancing workflow automation and creative capabilities."
+version = "1.0.0"
+license = {file = "LICENSE"} 
+# classifiers = [
+#     # For OS-independent nodes (works on all operating systems)
+#     "Operating System :: OS Independent",
+#
+#     # OR for OS-specific nodes, specify the supported systems:
+#     "Operating System :: Microsoft :: Windows",  # Windows specific
+#     "Operating System :: POSIX :: Linux",  # Linux specific
+#     "Operating System :: MacOS",  # macOS specific
+#
+#     # GPU Accelerator support. Pick the ones that are supported by your extension.
+#     "Environment :: GPU :: NVIDIA CUDA",    # NVIDIA CUDA support
+#     "Environment :: GPU :: AMD ROCm",       # AMD ROCm support
+#     "Environment :: GPU :: Intel Arc",      # Intel Arc support
+#     "Environment :: NPU :: Huawei Ascend",  # Huawei Ascend support
+#     "Environment :: GPU :: Apple Metal",    # Apple Metal support
+# ]
+
+dependencies = ["google-genai==1.33.0", "Pillow==11.3.0", "google-api-core==2.25.1", "google-api-python-client==2.181.0", "googleapis-common-protos==1.70.0", "numpy==1.26.4"]
+
+[project.urls]
+Repository = "https://github.com/PenguinTeo/Comfyui-GeminiBanana"
+#  Used by Comfy Registry https://registry.comfy.org
+Documentation = "https://github.com/PenguinTeo/Comfyui-GeminiBanana/wiki"
+"Bug Tracker" = "https://github.com/PenguinTeo/Comfyui-GeminiBanana/issues"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-GeminiBanana"
+Icon = ""
+includes = [] 
+# "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
+
